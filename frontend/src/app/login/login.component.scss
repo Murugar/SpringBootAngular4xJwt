@@ -1,0 +1,111 @@
+:host {
+  background-size: cover;
+  background-position: 50% 90% !important;
+  background-repeat: no-repeat;
+  color: #FFFF00;
+}
+
+.content {
+  width: 100%;
+  color: #FFFF00;
+ 
+}
+
+md-card {
+  max-width: 450px;
+  text-align: center;
+  color: #FFFF00;
+  background-color: #0000FF;
+
+}
+
+mat-input-placeholder 
+{
+  color: #FFFFAA;
+  background-color: #0000FF;
+}
+
+mat-empty 
+{
+  color: #FFFFAA;
+  background-color: #0000FF;
+}
+
+mat-float
+{
+  color: #FFFFAA;
+  background-color: #0000FF;
+}
+
+
+md-card-content {
+  color: #FFFFAA;
+  background-color: #0000FF;
+}
+
+md-card-subtitle {
+  color: #FFFFAA;
+  background-color: #0000FF;
+}
+
+mat-input-table {
+  color: #FFFFAA;
+  background-color: #0000FF;
+}
+
+md-card-title {
+  color: #FFFFBB;
+  background-color: #0000FF;
+}
+
+md-input-container {
+  display: block;
+  margin: 25px 0 25px 0;
+  color: #FFFF00;
+  background-color: #0000FF;
+}
+
+md-spinner {
+  width: 25px;
+  height: 25px;
+  margin: 20px auto 0 auto;
+  color: #FFFF00;
+  background-color: #0000FF;
+}
+
+button {
+  display: block;
+  width: 100%;
+  color: #FFFF00;
+  background-color: #FF0000;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+md-raised-button
+{
+  color: #FFFF00;
+  background-color: #FF0000;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.error {
+  color: #a94442;
+  font-weight: bold;
+}
+
+
+@media screen and (max-width: 599px) {
+  md-card {
+    max-width: 999px;
+    color: #FFFF00;
+    background-color: #00FF00;
+  }
+}
+
+a {
+  text-decoration: none;
+  cursor: auto;
+  color: #FFFF00;
+}
